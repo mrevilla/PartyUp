@@ -1,0 +1,12 @@
+Login.MainActivity, Login;md533583cc845b761e36e0b683119bc5692.MainActivity
+Login.MainActivity, Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533583cc845b761e36e0b683119bc5692.MainActivity
+Login.MainActivity;md533583cc845b761e36e0b683119bc5692.MainActivity
+login.MainActivity;md533583cc845b761e36e0b683119bc5692.MainActivity
+Login.Register, Login;md533583cc845b761e36e0b683119bc5692.Register
+Login.Register, Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533583cc845b761e36e0b683119bc5692.Register
+Login.Register;md533583cc845b761e36e0b683119bc5692.Register
+login.Register;md533583cc845b761e36e0b683119bc5692.Register
+Login.UserInfo, Login;md533583cc845b761e36e0b683119bc5692.UserInfo
+Login.UserInfo, Login, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533583cc845b761e36e0b683119bc5692.UserInfo
+Login.UserInfo;md533583cc845b761e36e0b683119bc5692.UserInfo
+login.UserInfo;md533583cc845b761e36e0b683119bc5692.UserInfo
